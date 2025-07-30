@@ -45,5 +45,9 @@ This repository contains three Jupyter Notebooks focused on extracting and visua
 ---
 
 ## 📁 Project Structure
+├── ExtractingAndVisualizingStockData.ipynb
+├── ExtractingStockDataUsingaPythonLibrary.ipynb
+├── ExtractingStockDataWebScraping.ipynb
+└── README.md
 
 
